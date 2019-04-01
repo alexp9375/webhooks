@@ -1,0 +1,276 @@
+{
+    "orders": [{
+        "id": 942251868239,
+        "email": "palfimelus@gmail.com",
+        "closed_at": null,
+        "created_at": "2019-03-31T21:01:34+02:00",
+        "updated_at": "2019-03-31T21:01:34+02:00",
+        "number": 1,
+        "note": null,
+        "token": "7862f384d01d6d3147490b32b5ee29c6",
+        "gateway": "paypal",
+        "test": false,
+        "total_price": "0",
+        "subtotal_price": "0",
+        "total_weight": 1000,
+        "total_tax": "0",
+        "taxes_included": true,
+        "currency": "HUF",
+        "financial_status": "paid",
+        "confirmed": true,
+        "total_discounts": "0",
+        "total_line_items_price": "0",
+        "cart_token": "b16473b488ac8e164db9ceee7324e4ac",
+        "buyer_accepts_marketing": false,
+        "name": "#1001",
+        "referring_site": "",
+        "landing_site": "\/password",
+        "cancelled_at": null,
+        "cancel_reason": null,
+        "total_price_usd": "0.00",
+        "checkout_token": "7e4ae1dbe446c35ad3ea68e524f7dac3",
+        "reference": null,
+        "user_id": null,
+        "location_id": null,
+        "source_identifier": null,
+        "source_url": null,
+        "processed_at": "2019-03-31T21:01:33+02:00",
+        "device_id": null,
+        "phone": null,
+        "customer_locale": "en",
+        "app_id": 580111,
+        "browser_ip": null,
+        "landing_site_ref": null,
+        "order_number": 1001,
+        "discount_applications": [],
+        "discount_codes": [],
+        "note_attributes": [],
+        "payment_gateway_names": [],
+        "processing_method": "free",
+        "checkout_id": 8451476553807,
+        "source_name": "web",
+        "fulfillment_status": null,
+        "tax_lines": [],
+        "tags": "",
+        "contact_email": "palfimelus@gmail.com",
+        "order_status_url": "https:\/\/alexplatonov.myshopify.com\/9153052751\/orders\/7862f384d01d6d3147490b32b5ee29c6\/authenticate?key=8926e79804178e2eb384668f79c8cf47",
+        "presentment_currency": "HUF",
+        "total_line_items_price_set": {
+            "shop_money": {
+                "amount": "0",
+                "currency_code": "HUF"
+            },
+            "presentment_money": {
+                "amount": "0",
+                "currency_code": "HUF"
+            }
+        },
+        "total_discounts_set": {
+            "shop_money": {
+                "amount": "0",
+                "currency_code": "HUF"
+            },
+            "presentment_money": {
+                "amount": "0",
+                "currency_code": "HUF"
+            }
+        },
+        "total_shipping_price_set": {
+            "shop_money": {
+                "amount": "0",
+                "currency_code": "HUF"
+            },
+            "presentment_money": {
+                "amount": "0",
+                "currency_code": "HUF"
+            }
+        },
+        "subtotal_price_set": {
+            "shop_money": {
+                "amount": "0",
+                "currency_code": "HUF"
+            },
+            "presentment_money": {
+                "amount": "0",
+                "currency_code": "HUF"
+            }
+        },
+        "total_price_set": {
+            "shop_money": {
+                "amount": "0",
+                "currency_code": "HUF"
+            },
+            "presentment_money": {
+                "amount": "0",
+                "currency_code": "HUF"
+            }
+        },
+        "total_tax_set": {
+            "shop_money": {
+                "amount": "0",
+                "currency_code": "HUF"
+            },
+            "presentment_money": {
+                "amount": "0",
+                "currency_code": "HUF"
+            }
+        },
+        "total_tip_received": "0.0",
+        "line_items": [{
+            "id": 2114055831631,
+            "variant_id": 21907455246415,
+            "title": "Basic consulting package",
+            "quantity": 1,
+            "sku": "10",
+            "variant_title": "",
+            "vendor": "Alexplatonov",
+            "fulfillment_service": "manual",
+            "product_id": 2480532684879,
+            "requires_shipping": false,
+            "taxable": false,
+            "gift_card": false,
+            "name": "Basic consulting package",
+            "variant_inventory_management": "shopify",
+            "properties": [],
+            "product_exists": true,
+            "fulfillable_quantity": 1,
+            "grams": 1000,
+            "price": "0",
+            "total_discount": "0",
+            "fulfillment_status": null,
+            "price_set": {
+                "shop_money": {
+                    "amount": "0",
+                    "currency_code": "HUF"
+                },
+                "presentment_money": {
+                    "amount": "0",
+                    "currency_code": "HUF"
+                }
+            },
+            "total_discount_set": {
+                "shop_money": {
+                    "amount": "0",
+                    "currency_code": "HUF"
+                },
+                "presentment_money": {
+                    "amount": "0",
+                    "currency_code": "HUF"
+                }
+            },
+            "discount_allocations": [],
+            "tax_lines": [{
+                "title": "VAT",
+                "price": "0",
+                "rate": 0.27,
+                "price_set": {
+                    "shop_money": {
+                        "amount": "0",
+                        "currency_code": "HUF"
+                    },
+                    "presentment_money": {
+                        "amount": "0",
+                        "currency_code": "HUF"
+                    }
+                }
+            }],
+            "origin_location": {
+                "id": 916877606991,
+                "country_code": "HU",
+                "province_code": "",
+                "name": "Alexplatonov",
+                "address1": "Rozsa utca 42",
+                "address2": "1",
+                "city": "Budapest",
+                "zip": "1064"
+            }
+        }],
+        "shipping_lines": [],
+        "billing_address": {
+            "first_name": "Melinda",
+            "address1": "Gardonyi Geza street 57",
+            "phone": null,
+            "city": "Budapest",
+            "zip": "1026",
+            "province": null,
+            "country": "Hungary",
+            "last_name": "Palfi",
+            "address2": "Gardonyi Geza street 57",
+            "company": "",
+            "latitude": null,
+            "longitude": null,
+            "name": "Melinda Palfi",
+            "country_code": "HU",
+            "province_code": null
+        },
+        "shipping_address": {
+            "first_name": "Melinda",
+            "address1": "Gardonyi Geza street 57",
+            "phone": null,
+            "city": "Budapest",
+            "zip": "1026",
+            "province": null,
+            "country": "Hungary",
+            "last_name": "Palfi",
+            "address2": "Gardonyi Geza street 57",
+            "company": "",
+            "latitude": null,
+            "longitude": null,
+            "name": "Melinda Palfi",
+            "country_code": "HU",
+            "province_code": null
+        },
+        "fulfillments": [],
+        "client_details": {
+            "browser_ip": "80.99.75.6",
+            "accept_language": "hu-HU,hu;q=0.9,en-US;q=0.8,en;q=0.7",
+            "user_agent": "Mozilla\/5.0 (Windows NT 10.0; WOW64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/73.0.3683.86 Safari\/537.36",
+            "session_hash": null,
+            "browser_width": 1920,
+            "browser_height": 920
+        },
+        "refunds": [],
+        "customer": {
+            "id": 1252517511247,
+            "email": "palfimelus@gmail.com",
+            "accepts_marketing": false,
+            "created_at": "2019-03-31T21:01:15+02:00",
+            "updated_at": "2019-03-31T21:01:34+02:00",
+            "first_name": "Melinda",
+            "last_name": "Palfi",
+            "orders_count": 1,
+            "state": "disabled",
+            "total_spent": "0.00",
+            "last_order_id": 942251868239,
+            "note": null,
+            "verified_email": true,
+            "multipass_identifier": null,
+            "tax_exempt": false,
+            "phone": null,
+            "tags": "",
+            "last_order_name": "#1001",
+            "currency": "HUF",
+            "accepts_marketing_updated_at": "2019-03-31T21:01:15+02:00",
+            "marketing_opt_in_level": null,
+            "default_address": {
+                "id": 1333016199247,
+                "customer_id": 1252517511247,
+                "first_name": "Melinda",
+                "last_name": "Palfi",
+                "company": "",
+                "address1": "Gardonyi Geza street 57",
+                "address2": "Gardonyi Geza street 57",
+                "city": "Budapest",
+                "province": null,
+                "country": "Hungary",
+                "zip": "1026",
+                "phone": null,
+                "name": "Melinda Palfi",
+                "province_code": null,
+                "country_code": "HU",
+                "country_name": "Hungary",
+                "default": true
+            }
+        }
+    }]
+}
