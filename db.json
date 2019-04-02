@@ -1,42 +1,31 @@
 {
     "orders": [{
-        "id": 943289139162,
-        "email": "palfimelus@gmail.com",
+        "id": 111111111,
+        "email": "alex.platonov23@gmail.com",
+        "first_name": "John",
+        "last_name": "Doe",
         "closed_at": null,
         "created_at": "2019-04-01T22:09:46+02:00",
-        "updated_at": "2019-04-01T22:09:47+02:00",
-        "number": 4,
-        "note": null,
-        "token": "e5210296163382db6a48605ab5dc049c",
+        "updated_at": "2019-04-01T22:09:46+02:00",
+        "number": 1,
+        "note": "Just a test",
         "gateway": null,
         "test": false,
-        "total_price": "0",
-        "subtotal_price": "0",
-        "total_weight": 4000,
+        "total_price": "399",
+        "subtotal_price": "399",
+        "total_weight": 100,
         "total_tax": "0",
         "taxes_included": true,
-        "currency": "HUF",
+        "currency": "EUR",
         "financial_status": "paid",
         "confirmed": true,
         "total_discounts": "0",
         "total_line_items_price": "0",
-        "cart_token": "dcda89a2742f2332600932aa74fc4812",
         "buyer_accepts_marketing": false,
-        "name": "#1004",
-        "referring_site": "",
-        "landing_site": "\/password",
-        "cancelled_at": null,
-        "cancel_reason": null,
-        "total_price_usd": "0.00",
-        "checkout_token": "3af0b34ea07559a5ae5dd3f5f039f580",
-        "reference": null,
-        "user_id": null,
-        "location_id": null,
-        "source_identifier": null,
-        "source_url": null,
+        "referring_site": "http://www.xxxxxx.com/goods/checkout",
+        "landing_site": "http://www.xxxxxx.com?source=abc",
         "processed_at": "2019-04-01T22:09:46+02:00",
-        "device_id": null,
-        "phone": null,
+        "phone": "+361234567",
         "customer_locale": "en",
         "app_id": 580111,
         "browser_ip": null,
@@ -46,63 +35,109 @@
         "discount_codes": [],
         "note_attributes": [],
         "payment_gateway_names": [],
-        "processing_method": "free",
+        "processing_method": "checkout",
         "checkout_id": 8454741917775,
-        "contact_email": "palfimelus@gmail.com",
-        "first_name": "Pici",
-        "last_name": "Maci"
-    },{
-        "id": 94328913927,
-        "email": "palfimelus@gmail.com",
-        "closed_at": null,
-        "created_at": "2019-04-01T22:09:46+02:00",
-        "updated_at": "2019-04-01T22:09:47+02:00",
-        "number": 4,
-        "note": null,
-        "token": "e5210296163382db6a48605ab5dc049c",
-        "gateway": null,
-        "test": false,
-        "total_price": "0",
-        "subtotal_price": "0",
-        "total_weight": 4000,
-        "total_tax": "0",
-        "taxes_included": true,
-        "currency": "HUF",
-        "financial_status": "paid",
-        "confirmed": true,
-        "total_discounts": "0",
-        "total_line_items_price": "0",
-        "cart_token": "dcda89a2742f2332600932aa74fc4812",
-        "buyer_accepts_marketing": false,
-        "name": "#1004",
-        "referring_site": "",
-        "landing_site": "\/password",
-        "cancelled_at": null,
-        "cancel_reason": null,
-        "total_price_usd": "0.00",
-        "checkout_token": "3af0b34ea07559a5ae5dd3f5f039f580",
-        "reference": null,
-        "user_id": null,
-        "location_id": null,
-        "source_identifier": null,
-        "source_url": null,
-        "processed_at": "2019-04-01T22:09:46+02:00",
-        "device_id": null,
-        "phone": null,
-        "customer_locale": "en",
-        "app_id": 580111,
-        "browser_ip": null,
-        "landing_site_ref": null,
-        "order_number": 1004,
-        "discount_applications": [],
-        "discount_codes": [],
-        "note_attributes": [],
-        "payment_gateway_names": [],
-        "processing_method": "free",
-        "checkout_id": 8454741917775,
-        "contact_email": "palfimelus@gmail.com",
-        "first_name": "Big",
-        "last_name": "Maci"
+        "contact_email": "alex.platonov23@gmail.com"",
+        "billing_address": {
+              "address1": "xxx street",
+              "address2": "Apartment x",
+              "city": "Budapest",
+              "company": null,
+              "country": "Hungary",
+              "first_name": "John",
+              "last_name": "Doe",
+              "phone": "(36)123-45-67",
+              "province": "Budapest",
+              "zip": "1132",
+              "name": "John Doe",
+              "province_code": null,
+              "country_code": null,
+              "latitude": "11.1111",
+              "longitude": "-11.1111"
+            },
+               	
+"line_items": [
+  {
+    "fulfillable_quantity": 1,
+    "fulfillment_service": "x",
+    "fulfillment_status": "fulfilled",
+    "grams": 100,
+    "id": 111111111,
+    "price": "399",
+    "product_id": 12345,
+    "quantity": 1,
+    "requires_shipping": true,
+    "sku": "x-xxx-AirTame2",
+    "title": "AirTame2",
+    "variant_id": 123,
+    "variant_title": null,
+    "vendor": "AirTame",
+    "name": "Airtame 2",
+    "gift_card": false,
+    "price_set": {
+      "shop_money": {
+        "amount": "399",
+        "currency_code": "EUR"
+      },
+      "presentment_money": {
+        "amount": "399",
+        "currency_code": "EUR"
+      }
+    },
+    "properties": [
+      {
+        "name": null,
+        "value": null
+      }
+    ],
+    "taxable": true,
+    "tax_lines": [
+      {
+        "title": "HST",
+        "price": "0",
+        "price_set": {
+          "shop_money": {
+            "amount": "0",
+            "currency_code": "EUR"
+          },
+          "presentment_money": {
+            "amount": "0",
+            "currency_code": "EUR"
+          }
+        },
+        "rate": 0
+      }
+    ],
+    "total_discount": "0",
+    "total_discount_set": {
+      "shop_money": {
+        "amount": "0",
+        "currency_code": "EUR"
+      },
+      "presentment_money": {
+        "amount": "0",
+        "currency_code": "EUR"
+      }
+    },
+    "discount_allocations": [
+      {
+        "amount": "0",
+        "discount_application_index": 0,
+        "amount_set": {
+          "shop_money": {
+            "amount": "0",
+            "currency_code": "EUR"
+          },
+          "presentment_money": {
+            "amount": "0",
+            "currency_code": "EUR"
+          }
+        }
+      }
+    ]
+  }
+]
     }]
 }
+
 
