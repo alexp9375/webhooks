@@ -37,7 +37,7 @@
         "payment_gateway_names": [],
         "processing_method": "checkout",
         "checkout_id": 8454741917775,
-        "contact_email": "alex.platonov23@gmail.com"",
+        "contact_email": "alex.platonov23@gmail.com",
         "billing_address": {
               "address1": "xxx street",
               "address2": "Apartment x",
